@@ -35,6 +35,16 @@ Join me on The following Platforms, where I share insights, victories, and even 
 <br>
 <br>
 
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(216,82,82,1) 13%, rgba(237,242,6,1) 57%);" />
+
+<h3 align="left">Social media :📡 </h3>
+Join me on The following Platforms, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me.
+<br>
+<br>
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-awais-10169129a/)
+
+
 
 
 
